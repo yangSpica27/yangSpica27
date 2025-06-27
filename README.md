@@ -15,6 +15,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangSpica27)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangSpica27&hide_progress=false)
+
   
 > 求职中,老板有意联系邮箱spica27@qq.com
 
