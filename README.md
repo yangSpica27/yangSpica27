@@ -13,9 +13,7 @@
 - 👯 我们可以交流读书心得,或者一起打红警(心灵终结),打羽毛球
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangSpica27)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangSpica27&hide_progress=false)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangSpica27&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
 > 求职中,老板有意联系邮箱spica27@qq.com
