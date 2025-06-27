@@ -12,8 +12,11 @@
 - 💬 对数码产品,装机,中古游戏,宫崎骏电影有兴趣
 - 👯 我们可以交流读书心得,或者一起打红警(心灵终结),打羽毛球
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangSpica27)](https://github.com/anuraghazra/github-readme-stats)
+
   
-### 求职中,老板有意联系邮箱spica27@qq.com
+> 求职中,老板有意联系邮箱spica27@qq.com
 
 
 ---
