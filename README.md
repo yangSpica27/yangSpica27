@@ -15,6 +15,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangSpica27&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### GitHub Contribution Chart
+<a href="https://github.com/KenanGain">
+    <img src="https://ghchart.rshah.org/yangSpica27" alt="SPICa27's GitHub Contribution Chart">
+</a>
+
   
 > 求职中,老板有意联系邮箱spica27@qq.com
 
