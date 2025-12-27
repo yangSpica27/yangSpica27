@@ -13,8 +13,6 @@
 - 👯 我们可以交流读书心得,或者一起打红警(心灵终结),打羽毛球
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangSpica27&hide_rank=true)](https://github.com/yangSpica27)
-
 ### GitHub Contribution Chart
 <a href="https://github.com/yangSpica27">
     <img src="https://ghchart.rshah.org/yangSpica27" alt="SPICa27's GitHub Contribution Chart">
